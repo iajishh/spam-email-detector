@@ -1,4 +1,4 @@
-##Spam Email Detector Web App
+## Spam Email Detector Web App
 
 This is a Flask-based web application that predicts whether a given email text is spam or not spam using a trained machine learning model.
 
